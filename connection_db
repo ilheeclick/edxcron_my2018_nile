@@ -1,0 +1,6 @@
+{
+  "host": "docker.for.mac.localhost",
+  "port": "3306",
+  "id": "edxapp001",
+  "pw": "password"
+}
